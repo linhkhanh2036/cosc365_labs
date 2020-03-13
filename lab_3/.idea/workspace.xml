@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c4999a7-a7ff-469a-9b07-3400d4bb29df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvdHhUQQHOjghazSziozCdBoyb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../API" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="conversation.server.controller.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app/controllers/conversation.server.controller.js" working-dir="$PROJECT_DIR$/app/controllers">
+      <method v="2" />
+    </configuration>
+    <configuration name="conversation.server.model.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app/models/conversation.server.model.js" working-dir="$PROJECT_DIR$/app/models">
+      <method v="2" />
+    </configuration>
+    <configuration name="conversation.server.routes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app/routes/conversation.server.routes.js" working-dir="$PROJECT_DIR$/app/routes">
+      <method v="2" />
+    </configuration>
+    <configuration name="express.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/config/express.js" working-dir="$PROJECT_DIR$/config">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.conversation.server.routes.js" />
+        <item itemvalue="Node.js.conversation.server.controller.js" />
+        <item itemvalue="Node.js.conversation.server.model.js" />
+        <item itemvalue="Node.js.express.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4999a7-a7ff-469a-9b07-3400d4bb29df" name="Default Changelist" comment="" />
+      <created>1583826915354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583826915354</updated>
+      <workItem from="1583826916433" duration="1285000" />
+      <workItem from="1583831877578" duration="52000" />
+      <workItem from="1583831966256" duration="26000" />
+      <workItem from="1583911760690" duration="994000" />
+      <workItem from="1583913021124" duration="59000" />
+      <workItem from="1583913099935" duration="231000" />
+      <workItem from="1583913690349" duration="32000" />
+      <workItem from="1583913733581" duration="983000" />
+      <workItem from="1583921761513" duration="4579000" />
+      <workItem from="1584086036622" duration="10771000" />
+      <workItem from="1584098685530" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1777" y="187" width="800" height="672" key="#Notifications" timestamp="1583913064711">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1777" y="187" width="800" height="672" key="#Notifications/0.0.1680.1025/1680.0.1920.1080@1680.0.1920.1080" timestamp="1583913064711" />
+    <state x="1680" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583913163207">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1680" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1025/1680.0.1920.1080@1680.0.1920.1080" timestamp="1583913163207" />
+    <state x="1923" y="331" width="507" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583912187759">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1923" y="331" width="507" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1025/1680.0.1920.1080@1680.0.1920.1080" timestamp="1583912187759" />
+    <state x="265" y="276" width="424" height="479" key="FileChooserDialogImpl" timestamp="1584098697511">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="1945" y="283" key="FileChooserDialogImpl/0.0.1680.1025/1680.0.1920.1080@1680.0.1920.1080" timestamp="1583912753237" />
+    <state x="265" y="276" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1584098697511" />
+    <state x="2185" y="283" key="FileChooserDialogImpl/0.0.1920.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583914634174" />
+    <state width="837" height="275" key="GridCell.Tab.0.bottom" timestamp="1584098670232">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="837" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1584098670232" />
+    <state width="480" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583914721560" />
+    <state width="837" height="275" key="GridCell.Tab.0.center" timestamp="1584098670231">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="837" height="275" key="GridCell.Tab.0.center/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1584098670231" />
+    <state width="480" height="271" key="GridCell.Tab.0.center/0.0.1920.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583914721560" />
+    <state width="837" height="275" key="GridCell.Tab.0.left" timestamp="1584098670231">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="837" height="275" key="GridCell.Tab.0.left/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1584098670231" />
+    <state width="480" height="271" key="GridCell.Tab.0.left/0.0.1920.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583914721560" />
+    <state width="837" height="275" key="GridCell.Tab.0.right" timestamp="1584098670231">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="837" height="275" key="GridCell.Tab.0.right/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1584098670231" />
+    <state width="480" height="271" key="GridCell.Tab.0.right/0.0.1920.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583914721560" />
+    <state x="6" y="156" key="SettingsEditor" timestamp="1583924046846">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="1686" y="160" key="SettingsEditor/0.0.1680.1025/1680.0.1920.1080@1680.0.1920.1080" timestamp="1583912712009" />
+    <state x="6" y="156" key="SettingsEditor/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1583924046846" />
+    <state x="1926" y="160" key="SettingsEditor/0.0.1920.1055/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583913823325" />
+    <state x="233" y="30" width="1035" height="1025" key="dock-window-1" timestamp="1584098698951">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="233" y="30" width="1035" height="1025" key="dock-window-1/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1584098698951" />
+  </component>
+</project>
